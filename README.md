@@ -1,18 +1,18 @@
 # Hi 👋, I'm Keshav Solanki
 
-### 🚀 Software Developer | Java Backend Enthusiast
+### 🚀 Software Developer | Java Backend Focus
 
-I am a passionate **Software Developer** with a strong foundation in **Java Backend Development** and **problem solving**.  
-I enjoy building clean, scalable applications and continuously improving my coding skills.
+I am a passionate **Software Developer** with a strong foundation in **Java backend development** and **problem solving**.  
+I enjoy writing clean code, building logical solutions, and learning how real-world software systems work.
 
 ---
 
 ## 👨‍💻 About Me
 - 💻 Software Developer with **Java backend focus**
 - 🌱 Currently learning **Advanced Java, JDBC, Servlets & DSA**
-- 🧠 Strong interest in **logic building & clean code**
-- 🔍 Exploring real-world backend problems
-- 📌 Goal: Become a **professional backend engineer**
+- 🧠 Interested in **logic building & clean code practices**
+- 🔍 Exploring backend development concepts
+- 🎯 Goal: Become a **professional backend engineer**
 
 ---
 
@@ -25,32 +25,32 @@ I enjoy building clean, scalable applications and continuously improving my codi
 
 ## 📂 Projects
 - 🏫 **School Management System**  
-  *HTML, CSS* – Student & teacher record management
+  *HTML, CSS* – Manages student and teacher records
 
 - 🗳️ **Online Voting System**  
-  *Java* – Secure voting logic with validation
+  *Java* – Secure voting system with validation logic
 
-- 🌦️ **Weather Forecast App**  
-  *JavaScript* – Real-time weather data display
+- 🌦️ **Weather Forecast Application**  
+  *JavaScript* – Displays weather information dynamically
 
-- 🔐 **HoneySecure (Security-focused project)**  
-  *Java, JSP, MySQL* – Authentication & data protection
+- 🔐 **HoneySecure**  
+  *Java, JSP, MySQL* – Authentication and basic security features
 
-👉 Check all projects here:  
+👉 View all projects here:  
 🔗 https://github.com/keshav-solanki?tab=repositories
 
 ---
 
-## 📈 GitHub Stats
-![Keshav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshav-solanki&show_icons=true)
-
+## 📊 GitHub Stats
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=keshav-solanki" />
 
 ---
 
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/keshav-solanki-469b9524b
-- 📫 Email: keshavsolanki2k3@gmail.com
+- 📫 Email: your-email@gmail.com
 
 ---
 
-⭐ *Thank you for visiting my profile. Feel free to explore my repositories and connect with me!*
+⭐ Thank you for visiting my GitHub profile.  
+Feel free to explore my repositories and connect with me!

@@ -18,23 +18,23 @@ I enjoy writing clean code, building logical solutions, and learning how real-wo
 
 ## 🌐 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/keshav-solanki/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         width="40"
-         height="40"
-         style="display:block; text-decoration:none;"/>
+  <a href="https://www.linkedin.com/in/keshav-solanki/" rel="nofollow">
+    <img align="center"
+         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         height="30"
+         width="40" />
   </a>
-  <a href="https://leetcode.com/u/keshav-solanki/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
-         width="40"
-         height="40"
-         style="display:block; text-decoration:none;"/>
+  <a href="https://leetcode.com/u/keshav-solanki/" rel="nofollow">
+    <img align="center"
+         src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+         height="30"
+         width="40" />
   </a>
-  <a href="https://www.geeksforgeeks.org/profile/keshavsolanki" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg"
-         width="40"
-         height="40"
-         style="display:block; text-decoration:none;"/>
+  <a href="https://www.geeksforgeeks.org/profile/keshavsolanki" rel="nofollow">
+    <img align="center"
+         src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg"
+         height="30"
+         width="40" />
   </a>
 </p>
 

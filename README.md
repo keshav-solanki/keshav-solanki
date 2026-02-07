@@ -41,14 +41,9 @@ I enjoy writing clean code, building logical solutions, and learning how real-wo
 
 ---
 
-## 📊 GitHub Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=keshav-solanki" />
-
----
-
 ## 🌐 Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/keshav-solanki-469b9524b
-- 📫 Email: your-email@gmail.com
+- 📫 Email: keshav-solanki2k3@gmail.com
 
 ---
 

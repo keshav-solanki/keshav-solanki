@@ -18,13 +18,13 @@ I enjoy writing clean code, building logical solutions, and learning how real-wo
 
 ## 🌐 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/keshav-solanki/" target="_blank">
+  <a href="https://www.linkedin.com/in/keshav-solanki/" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://leetcode.com/u/keshav-solanki/" target="_blank">
+  </a>&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/keshav-solanki/" target="_blank" style="text-decoration:none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/keshavsolanki" target="_blank">
+  </a>&nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/keshavsolanki" target="_blank" style="text-decoration:none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" height="40"/>
   </a>
 </p>
@@ -53,12 +53,6 @@ I enjoy writing clean code, building logical solutions, and learning how real-wo
 
 👉 View all projects here:  
 🔗 https://github.com/keshav-solanki?tab=repositories
-
----
-
-## 🌐 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/keshav-solanki-469b9524b
-- 📫 Email: keshav-solanki2k3@gmail.com
 
 ---
 

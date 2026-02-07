@@ -18,20 +18,10 @@ I enjoy writing clean code, building logical solutions, and learning how real-wo
 
 ## 🌐 Connect with me:
 
-<p align="left" style="display:flex; align-items:center; gap:12px;">
-  <a href="https://www.linkedin.com/in/keshav-solanki/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-         width="40" height="40" style="display:block;" />
-  </a>
-  <a href="https://leetcode.com/u/keshav-solanki/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
-         width="40" height="40" style="display:block;" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/keshavsolanki">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg"
-         width="40" height="40" style="display:block;" />
-  </a>
-</p>
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />](https://www.linkedin.com/in/keshav-solanki/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" />](https://leetcode.com/u/keshav-solanki/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" height="40" />](https://www.geeksforgeeks.org/profile/keshavsolanki)
+
 
 ---
 

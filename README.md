@@ -16,6 +16,13 @@ I enjoy writing clean code, building logical solutions, and learning how real-wo
 
 ---
 
+## 🌐 Connect with Me
+- 💼 LinkedIn: https://www.linkedin.com/in/keshav-solanki/
+- 🟡 LeetCode: https://leetcode.com/u/keshav-solanki/
+- 🟢 GeeksforGeeks: https://www.geeksforgeeks.org/profile/keshavsolanki
+
+---
+
 ## 🛠️ Languages & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=java,html,css,js,mysql,git,github,vscode" />

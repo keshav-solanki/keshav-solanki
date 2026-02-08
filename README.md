@@ -26,7 +26,7 @@ I enjoy writing clean code, building logical solutions, and learning how real-wo
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=keshav-solanki)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=keshav-solanki" width="450" />
 
 ---
 

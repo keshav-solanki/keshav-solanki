@@ -26,8 +26,7 @@ I enjoy writing clean code, building logical solutions, and learning how real-wo
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshav-solanki&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshav-solanki&layout=compact)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=keshav-solanki)
 
 ---
 

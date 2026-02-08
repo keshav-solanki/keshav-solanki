@@ -22,6 +22,12 @@ I enjoy writing clean code, building logical solutions, and learning how real-wo
 [<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40" />](https://leetcode.com/u/keshav-solanki/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="40" height="40" />](https://www.geeksforgeeks.org/profile/keshavsolanki)
 
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keshav-solanki&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keshav-solanki&layout=compact)
 
 ---
 
